@@ -1,8 +1,8 @@
 * {
-    margin: 0;
-    padding: 0;
-    font-family: sans-serif;
-    background-color: #f5f7fa;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #f5f7fa;
 }
 
 .navbar {
@@ -48,8 +48,8 @@
   background: white;
 }
 
-.nav-icons a:hover{
-    color: black;
+.nav-icons a:hover {
+  color: black;
 }
 
 .nav-links a:hover {
@@ -131,4 +131,10 @@
   color: black;
   text-decoration: none;
   background: white;
+}
+
+
+.c:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 50px rgba(16, 24, 40, 0.08);
 }

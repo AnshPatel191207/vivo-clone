@@ -251,3 +251,9 @@
 .prev:hover, .next:hover {
   scale: 10%;
 }
+
+
+.c:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 50px rgba(16, 24, 40, 0.08);
+}
