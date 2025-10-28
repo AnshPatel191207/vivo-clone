@@ -146,9 +146,3 @@
   color: #fff;
   text-decoration: none;
 }
-
-@media (max-width:980px){
-      .page{grid-template-columns: 1fr; padding:12px;}
-      aside.filters{position:relative; top:0; order:2}
-      .toolbar{flex-direction:column; align-items:flex-start; gap:8px}
-    }
